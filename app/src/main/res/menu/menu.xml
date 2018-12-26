@@ -6,8 +6,8 @@
     <item android:id="@+id/item2" android:title="Item Two"/>
     <item android:id="@+id/item3" android:title="Item Three"/>
     <item android:id="@+id/item4" android:title="Item Four"/>
-    <item android:id="@+id/item5" android:icon="@drawable/ic_contacts_black_24dp" android:iconTint="@color/colorMenu" app:showAsAction="ifRoom"/>
-    <item android:id="@+id/item6" android:icon="@drawable/ic_fitness_center_black_24dp" app:showAsAction="ifRoom" android:iconTint="@color/colorMenu"/>
+    <item android:id="@+id/item5" android:title="Item Five" android:icon="@drawable/ic_contacts_black_24dp" android:iconTint="@color/colorMenu" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/item6" android:title="Item Six" android:icon="@drawable/ic_fitness_center_black_24dp" app:showAsAction="ifRoom" android:iconTint="@color/colorMenu"/>
 
 
 </menu>
